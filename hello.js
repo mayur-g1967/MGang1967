@@ -8,3 +8,5 @@ console.log(num)
 
 const num1 = 12
 console.log(num1)
+
+console.log("Hello we are Jay and Mayur")
